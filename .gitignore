@@ -1,0 +1,21 @@
+# Audio data — too large for git, stored on Google Drive
+Audio/
+*.wav
+*.mp3
+
+# Cache files
+cache_train/
+cache_valid/
+*.arrow
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
